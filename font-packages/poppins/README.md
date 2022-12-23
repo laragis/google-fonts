@@ -36,7 +36,7 @@ This font family contains [18 styles](#-gallery).
 
 Run this command from the shell in the root directory of your Expo project to add the font family package to your project
 ```sh
-expo install @expo-google-fonts/poppins expo-font expo-app-loading
+expo install @ttungbmt/expo-poppins-font expo-font expo-app-loading
 ```
 
 Now add code like this to your project
@@ -298,7 +298,7 @@ export default () => {
 
 ## 👩‍💻 Use During Development
 
-If you are trying out lots of different fonts, you can try using the [`@expo-google-fonts/dev` package](https://github.com/expo/google-fonts/tree/master/font-packages/dev#readme).
+If you are trying out lots of different fonts, you can try using the [`@expo-google-fonts/dev` package](https://github.com/laragis/google-fonts/tree/master/font-packages/dev#readme).
 
 You can import *any* font style from any Expo Google Fonts package from it. It will load the fonts
 over the network at runtime instead of adding the asset as a file to your project, so it may take longer
