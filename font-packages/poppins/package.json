@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/laragis/google-fonts.git",
   "homepage": "https://github.com/laragis/google-fonts/tree/master/font-packages/poppins#readme",
-  "author": "Expo Team <team@expo.io>",
+  "author": "Truong Thanh Tung <ttungbmt@gmail.com>",
   "license": "MIT",
   "publishConfig": { "access": "public" }
 }
