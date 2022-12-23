@@ -1,5 +1,5 @@
 {
-  "name": "@ttungbmt/poppins-font",
+  "name": "@ttungbmt/expo-poppins-font",
   "version": "0.2.1",
   "description": "Use the Poppins font family from Google Fonts in your Expo app",
   "main": "index.js",
